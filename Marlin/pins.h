@@ -1827,7 +1827,7 @@
 #define SDSS               53
 #define LED_PIN            13
 
-#define FAN_PIN            8 //11 // IO pin. Buffer needed
+#define FAN_PIN            11 //8 // IO pin. Buffer needed
 
 #define PS_ON_PIN          -1
 
